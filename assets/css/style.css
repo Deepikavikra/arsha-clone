@@ -1,0 +1,159 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+   
+}
+.navbar{
+    background-image: linear-gradient(to  right,#47b2e4,#7952b3);
+    
+}
+.navbar-brand img{
+    height:41px;
+    border-radius: 18px;
+}
+.navbar-nav .nav-item {
+    padding:10px;
+}
+.form-inline .btn{
+    color: white;
+    border-radius: 30px;
+    width: 100px;
+    border: 1px solid #47b2e4;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase !important;
+}
+.navbar-nav .nav-item a{
+    color:#fff !important;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase !important;
+}
+.form-inline .btn:hover{
+    background: #47b2e4;
+}
+.navbar-toggler .fa-bars{
+    color: #fff;
+    font-size: 28px;
+}
+.navbar-nav .active a{
+    color: tomato !important;
+}
+.navbar-nav .nav-item a:hover {
+    color: tomato !important;
+}
+#banner{
+    background-image: linear-gradient(to  right,#47b2e4,#7952b3);
+}
+.spa{
+    font-size: 24px;
+    margin-top: 25px;
+}
+
+.content{
+    margin-top: 80px;
+    font-size: 24px;
+    color:white;
+    padding: 37px;
+}
+.animated{
+    animation: float 3s ease-in-out infinite;
+    position:relative;
+    width:100%;
+}
+.content-container{
+    margin-top: 20px;
+}
+
+.row{
+    margin-top: 50px;
+}
+.row .image{
+    margin-top: 100px;
+}
+.service-container{
+    display:flex;
+}
+#service{
+    margin-top: 50px;
+}
+.service .service-content .p{
+    padding:200px;
+}
+.icon{
+    color: #47b2e4 !important;
+    font-size: 30px;
+}
+ .card-container{
+   margin:7px;
+    /* box-shadow: 1px 1px 8px 1px; */
+    background: white;
+}
+.card-text{
+    padding: 8px;
+}
+.card-subtitle{
+    font-size: 23px;
+    padding: 5px;
+}
+ .service-content-p{
+    padding: 80px;
+    margin-bottom: -30px;
+    margin-top: -70px;
+}
+.team-content{
+    margin-top: 30px;
+}
+.team-content-p{
+    padding: 80px;
+    margin-bottom: -30px;
+    margin-top: -70px;
+}
+.team-img{
+    height: 206px;
+    width: 200px;
+    border-radius: 115px;
+    padding: 19px;
+}
+.team-icon{
+
+}
+.team-icon .team-symbol{
+    margin:10px;
+    
+}
+.team-icon .team-symbol:hover{
+    background:#47b2e4 !important;
+    border-radius: 17px;
+    padding: 10px;
+    color:white;
+}
+.team-card {
+    margin:20px;
+    background: white;
+}
+
+.team-container-1{
+    display:flex;
+    
+}
+.team-container-2{
+    display:flex;
+}
+#team{
+    background: #e9ecef;
+}
+#service{
+    background: #e9ecef;
+    padding-bottom: 40px;
+    margin-bottom: 70px;
+}
+
+
+
+
+
+/* https://bootstrapmade.com/demo/Arsha/ */
+
+/* https://mr-jeevan.github.io/Fullstack/arsha-page/ */
